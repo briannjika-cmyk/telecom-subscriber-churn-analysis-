@@ -46,6 +46,67 @@ The analysis reports contract-type average monthly charges of **85.05** for one-
 
 ![Monthly charge comparison by contract type](images/comparison_between_monthlycharges_and_contracttype.png)
 
+## Top 3 Customer Churn Risk Signals
+
+The analysis revealed three major factors associated with higher customer churn.
+
+**1. Customers without additional security and support services**
+
+Customers who did not subscribe to Online Security, Online Backup, Device Protection and Tech Support recorded the highest churn rate of 56.67%. In comparison, customers subscribed to all four services had a churn rate of just 5.33%. This represents a difference of 51.34 percentage points. This suggests that customers without additional security and support services may be more vulnerable to churn. The company could explore targeted service offers and improved customer support to encourage greater service adoption.
+
+**2. Customers with shorter tenure**
+
+Customers with a tenure of 12 months or less recorded a churn rate of 47.68%, compared with 9.51% among customers who had stayed for 49–72 months. The difference of 38.17 percentage points highlights the challenges of retaining customers during the early stages of their relationship with the company. Improving customer onboarding, early engagement and service experience could help reduce customer losses.
+
+**3. Customers on month-to-month contracts**
+
+Month-to-month customers recorded a churn rate of 42.71%, significantly higher than the 11.28% recorded among one-year contract customers and the 2.85% recorded among two-year contract customers. The overall churn rate was 26.58%. This suggests that customers on flexible monthly contracts are more likely to leave. The company could consider introducing incentives to encourage customers to move to longer-term contracts.
+
+## Customer Retention Intervention Recommendations
+
+Based on the churn analysis, I recommend three targeted retention interventions to address the customer segments showing the highest likelihood of churn.
+
+**1. Introduce targeted retention programmes for customers without additional security and support services**
+
+Customers without Online Security, Online Backup, Device Protection and Tech Support recorded a churn rate of 56.67%, compared with 5.33% among customers subscribed to all four services.
+
+**Recommended interventions:**
+
+- Offer discounted bundles combining Online Security, Online Backup, Device Protection and Tech Support.
+- Provide free trials or introductory discounts to encourage customers to experience additional services.
+- Educate customers about the benefits of these services through personalised emails, SMS campaigns and customer support interactions.
+- Monitor whether customers who adopt additional services demonstrate improved retention.
+
+**Expected outcome:** Increase adoption of additional services and improve customer engagement, potentially reducing churn among customers with limited service subscriptions.
+
+**2. Strengthen customer onboarding and early-stage engagement**
+
+Customers with 12 months or less of tenure recorded a churn rate of 47.68%, compared with 9.51% among customers who had stayed for 49–72 months.
+
+**Recommended interventions:**
+
+- Introduce a structured onboarding programme for newly acquired customers.
+- Follow up with customers during their first 30, 60 and 90 days to identify service problems and dissatisfaction.
+- Provide dedicated customer support to new subscribers experiencing technical or billing difficulties.
+- Introduce loyalty incentives for customers who reach important milestones, such as six and twelve months of subscription.
+- Monitor early customer activity to identify potential dissatisfaction before customers decide to leave.
+
+**Expected outcome:** Improve the early customer experience, strengthen customer relationships and reduce customer losses during the first year of subscription.
+
+**3. Develop retention incentives for month-to-month contract customers**
+
+Month-to-month customers recorded a churn rate of 42.71%, compared with 11.28% for one-year contracts and 2.85% for two-year contracts. The overall churn rate was 26.58%.
+
+**Recommended interventions:**
+
+- Offer discounted monthly rates to customers willing to move to one-year or two-year contracts.
+- Introduce loyalty rewards for customers who maintain their subscriptions.
+- Provide exclusive benefits or additional services to customers who commit to longer contract periods.
+- Identify month-to-month customers with high monthly charges and offer suitable alternative packages.
+- Conduct customer satisfaction follow-ups to understand why customers prefer flexible contracts.
+
+**Expected outcome:** Encourage longer-term customer commitments, improve customer retention and reduce the high churn observed among month-to-month subscribers.
+
 ## Retention intervention recommendations
 
 The findings support testing targeted interventions rather than assuming one approach will suit every customer segment. These are recommendations to evaluate, not proven outcomes.
@@ -54,11 +115,21 @@ The findings support testing targeted interventions rather than assuming one app
 2. **Strengthen onboarding and early-stage engagement.** Consider a structured onboarding journey, follow-ups during the first 30, 60 and 90 days, and timely help with technical or billing issues. Track early customer feedback and retention through the first year.
 3. **Test retention incentives for month-to-month customers.** Evaluate whether suitable discounts, loyalty benefits or additional services encourage customers to choose longer-term contracts. Follow up with customers to understand their preferences, and consider package suitability when reviewing high monthly charges.
 
-## Overall conclusion
+## Overall Conclusion
 
-In this analysis, churn is concentrated among customers with shorter tenure, month-to-month contracts and no subscription to the four named security and support services. These characteristics can inform which groups merit further retention attention. The monthly-charge comparison is more limited: the displayed churned customers were above their contract-type averages, but a summary covering all churned customers is needed to assess the broader pattern.
+The findings suggest that customer churn is particularly concentrated among customers with shorter tenure, month-to-month contracts and limited subscriptions to additional security and support services. These factors provide useful signals for identifying customers who may require greater retention attention.
 
-The results show associations, not proof of causation. Any intervention should be evaluated using subsequent retention monitoring; controlled campaigns can help assess whether a particular strategy is effective.
+Based on these findings, the company should prioritise early customer engagement, improve awareness and adoption of additional services, and develop retention strategies for customers on month-to-month contracts.
+
+It is important to note that these findings indicate associations with customer churn rather than proving that these factors directly cause customers to leave.
+
+## Overall Recommendation
+
+The company should adopt a targeted retention strategy rather than applying the same intervention to every customer. Priority should be given to customers with short tenure, month-to-month contracts and limited additional service subscriptions.
+
+These characteristics can be combined to identify customers who may require early retention attention. The company should also monitor churn rates before and after implementing the interventions to determine whether the strategies are producing measurable improvements.
+
+The recommendations are based on observed associations in the dataset. Their effectiveness should be evaluated through subsequent retention monitoring and controlled campaigns.
 
 ## Analysis files
 
